@@ -3,6 +3,8 @@
 Este repositório contém informações sobre os principais discos do lendário músico brasileiro Tim Maia. Tim Maia foi um dos maiores ícones da música brasileira, conhecido por sua voz única e seu estilo inconfundível que mesclava diversos gêneros como soul, funk e música popular brasileira.
 ![Alt Text](https://github.com/OPedromartyns/Timmaia_page/blob/main/img/home.png?raw=true)
 
+Você pode visualizar o site completo [aqui](https://codepen.io/OPedromartyns/pen/YzMxjyw?editors=1000).
+
 
 ## Sobre o Projeto
 
